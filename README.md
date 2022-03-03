@@ -15,7 +15,7 @@
 
 <div> 
  <a href="https://discord.gg/aaHXGcUj77" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" height="28" width="125"></a> 
-  <a href = "hitalofernandes08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="28" width="125"></a>
+  <a href = "https://api.whatsapp.com/send/?phone=5511984617216&text&app_absent=0"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank" height="28" width="125"></a>
   <a href="https://www.linkedin.com/in/hitalo08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="28" width="125"></a>
 
   
