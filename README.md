@@ -1,4 +1,4 @@
-## Olá. Eu sou o Hitalo Christian !![Profile View Counter](https://komarev.com/ghpvc/?username=hitalo08)
+## Olá. Eu sou o Hitalo Christian ! [Profile View Counter](https://komarev.com/ghpvc/?username=hitalo08)
 
  <div>
   <a href="https://github.com/hitalo08">
